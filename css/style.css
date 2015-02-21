@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{background-color: #121212;
+    color: #aaa;
+    font-family: helvetica,arial;
+    font-size: 9pt;
+    font-weight: normal;
+    line-height: 140%;
+    margin: 0;
+    padding: 0;}
+	
+	
+h1, h2, h3, h4, h5{color:#ffffff;} 
+	
+
+/*Wrapper Css*/	
+.wrapper{background-color:#303030;}
+
+
+/*Footer Css*/
+.footer{background-color:#242424;
+		margin-top:3px;
+		margin-bottom:7px;
+		}
+
